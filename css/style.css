@@ -2,6 +2,10 @@ body {
     background-color: aquamarine;
 }
 
+header {
+    text-decoration: none;
+
+}
 h1 {
     text-align: center;
     font-size: 100px;
@@ -12,37 +16,30 @@ div {
     text-align: center;
     padding: 10px;
     font-size: 30px;
-    padding-left: 10px;
-    padding-right: 10px;
-    
+    background-color: rgb(228, 147, 25);
+}
+
+nav li {
+    display: inline;
+    padding: 100px;
 }
 
 
 main {
-float: right;
-padding-right: 200px;
-padding-top: 400px;
+text-align: center;
+padding-top: 30px;
+
 }
 
 
 article {
 text-align: center;
-padding
 
 }
 
 
-
-
-
-
-
-
-
-
-
-
 footer {
-    padding-top: 800px;
+    padding-top: 100px;
     text-align: center;
+    background-color: rgb(228, 147, 25);
 }
