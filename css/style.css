@@ -12,5 +12,33 @@ div {
     text-align: center;
     padding: 10px;
     font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
 }
 
+
+main {
+float: right;
+padding-right: 200px;
+padding-top: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    padding-top: 800px;
+    text-align: center;
+}
